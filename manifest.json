@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "version": "0.2.2",
-  "commit": "4a7129e25a4292bf842521cb7dbe49be7bcee94e",
+  "version": "0.2.3",
+  "commit": "d3ecf7895bd9eb52d0d13681c26ea70cf4867109",
   "runtime_id": "06dde6bf05d0d28f",
-  "url": "https://github.com/erquier/erqlabs-studio-releases/releases/tag/v0.2.2",
+  "url": "https://github.com/erquier/erqlabs-studio-releases/releases/tag/v0.2.3",
   "packages": {
     "app": {
-      "url": "https://github.com/erquier/erqlabs-studio-releases/releases/download/v0.2.2/ERQLABS-Studio-0.2.2.zip",
-      "size": 1687754,
-      "sha256": "929e77f938229602e8b04e58a3e74c59990edc1483447f474ca2cd1ec525b835"
+      "url": "https://github.com/erquier/erqlabs-studio-releases/releases/download/v0.2.3/ERQLABS-Studio-0.2.3.zip",
+      "size": 1694342,
+      "sha256": "e61b06e2e6c2cddf68240f2108e1f396393d948a6d65d4bb5436fe4b8acc7cd2"
     }
   }
 }
