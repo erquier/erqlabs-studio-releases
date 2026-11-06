@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "version": "0.2.0",
+  "commit": "34aeacbd81da9134892012a90a26886b501f558a",
+  "runtime_id": "06dde6bf05d0d28f",
+  "url": "https://github.com/erquier/erqlabs-studio-releases/releases/tag/v0.2.0",
+  "packages": {
+    "app": {
+      "url": "https://github.com/erquier/erqlabs-studio-releases/releases/download/v0.2.0/ERQLABS-Studio-0.2.0.zip",
+      "size": 1651120,
+      "sha256": "bd097d06db28712444f906f4cc5a4ffd4c372bf998cd33297d4341e883a5383f"
+    }
+  }
+}
